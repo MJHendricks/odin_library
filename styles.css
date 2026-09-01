@@ -1,0 +1,22 @@
+.cover {
+    flex: 0 0 20%;
+    position: relative;
+    height: 150px; 
+    border: 1px solid #000000;
+    margin: 5px;
+    text-align: center;
+}
+
+.removeButton {
+    position: absolute;
+    bottom: 5px;
+    left: 25px;
+}
+
+.library {
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+    height: auto;
+
+}
